@@ -1,1 +1,4 @@
-print("hello world")
+
+x=str(input())
+x[::2]
+print(x)
